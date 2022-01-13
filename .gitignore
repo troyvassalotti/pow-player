@@ -3,4 +3,4 @@ node_modules
 dist
 public/sw.js
 public/_/about-pow.png
-
+.idea
